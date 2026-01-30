@@ -150,28 +150,18 @@ dotnet add package Microsoft.AspNetCore.Components --version 6.0.0
 
 发送到BTP
 
+<img width="415" height="248" alt="image" src="https://github.com/user-attachments/assets/5480bc6c-2543-441c-b14c-01ba14de4334" />
 
 
 修改name为../../../../../../../../../../../../../../../../../../opt/components/xpl.dll
 
+<img width="415" height="246" alt="image" src="https://github.com/user-attachments/assets/bc056fce-8a19-491f-9f3d-40a2251212da" />
 
+将json序列化
+将序列化的json复制到前面的数据包
 
+换了一个文件
 
+Chmod 600 id_rsa
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="416" height="172" alt="image" src="https://github.com/user-attachments/assets/c829072e-9c37-4196-8bde-242f2a381139" />
