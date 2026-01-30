@@ -130,6 +130,12 @@ Working dir填上/proc/self/fd/8
 
 
 
+获得rootflag
+
+
+Docker提权参考
+https://rioasmara.com/2021/08/15/use-portainer-for-privilege-escalation/
+
 
 
 
