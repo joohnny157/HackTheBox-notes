@@ -128,6 +128,8 @@ https://gist.github.com/hoto/d1c874480888f8711f12db33a20b6e4d
 chmod 600 shit
 ssh -i shit root@10.10.11.10
 
+<img width="415" height="212" alt="image" src="https://github.com/user-attachments/assets/680130af-5a63-4fef-b76b-859007ca281d" />
 
+成功获取root权限
 
-
+<img width="415" height="212" alt="image" src="https://github.com/user-attachments/assets/ceec0b2f-95b2-4c2d-bdf6-f414b4cc50c3" />
