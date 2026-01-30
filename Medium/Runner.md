@@ -127,6 +127,7 @@ Working dir填上/proc/self/fd/8
 
 点进去
 
+<img width="415" height="202" alt="image" src="https://github.com/user-attachments/assets/c5dfad9f-d678-413d-982d-68037def9cca" />
 
 
 
