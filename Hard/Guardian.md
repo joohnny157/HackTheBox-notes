@@ -1,4 +1,4 @@
-<img width="932" height="543" alt="Image" src="https://github.com/user-attachments/assets/9fe2f31e-f744-4e08-b604-d25571ea6682" />
+
 <img width="857" height="506" alt="Image" src="https://github.com/user-attachments/assets/f0f0b930-c354-44e8-b88a-063b24dcd8a4" />
 
 nmap -sC -sV 10.129.237.248
